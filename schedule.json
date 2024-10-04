@@ -1,0 +1,192 @@
+{
+  "theme": "Everything Media: The Future of Work",
+  "date": "6th – 8th NOVEMBER 2024",
+  "venue": "MCI Media Hub",
+  "days": [
+    {
+      "day": "Day 1",
+      "date": "6th November 2024",
+      "title": "Laying the Foundation - Understanding the Media Ecosystem",
+      "description": "Discussions and events shall focus on the role of media and the creative industry in shaping perceptions and narratives within society. This day will explore topics such as storytelling techniques, the impact of media on public opinion, and how journalists and creatives can harness their power to influence change.",
+      "events": [
+        {
+          "id": "1",
+          "time": "9:00 – 9:10 a.m.",
+          "title": "Opening Remarks: \"Everything Media: The Future of Work.\"",
+          "description": "Speaker: Abaas Mpindi - Chief Executive Officer, Media Challenge Initiative",
+          "details": "This session shall set the tone for the event, highlighting the importance of media and creativity in shaping the African narrative. Our esteemed speaker will share insights on the evolving media landscape, the role of innovation in journalism, and the significance of collaboration among stakeholders in the industry. Participants shall be inspired to engage actively in the sessions ahead, as we embark on a journey of learning, networking, and collective growth."
+        },
+        {
+          "id": "2",
+          "time": "9:10–9:30 a.m.",
+          "title": "Keynote address: The Future of Media in Africa",
+          "description": "Speaker: Charles Onyango Obo - Journalist, Writer & Curator, Nation Media",
+          "details": "A renowned media leader shall give an inspiring keynote address; sharing insights on the evolving media landscape in Africa. They shall explore how digital transformation, youth innovation, and collaboration can drive the future of journalism and creative industries. This session will set the tone for the Expo, igniting discussions about the critical role of media in shaping the continent's narrative."
+        },
+        {
+          "id": "3",
+          "time": "9:30 – 10:30 a.m.",
+          "title": "Plenary Discussions: The Future of Media in Africa: Opportunities and Challenges",
+          "description": "Panel discussion featuring leading experts in the media landscape",
+          "details": "This engaging panel discussion shall feature leading experts in the media landscape as they explore the future of media in Africa. This session will address the evolving dynamics of media consumption, technology's impact, and journalism's role in shaping societal narratives. This plenary discussion shall provide a comprehensive overview of the future of media in Africa, encouraging critical thinking and collaboration among participants."
+        },
+        {
+          "id": "4",
+          "time": "10:30 – 11:00 a.m.",
+          "title": "Coffee Break",
+          "description": "Networking opportunity for all participants",
+          "details": "The participants shall take a coffee break to recharge and network. In a relaxed setting, they will enjoy a selection of coffee, tea, and light refreshments while engaging in meaningful conversations with media professionals, creatives, and industry leaders."
+        },
+        {
+          "id": "5",
+          "time": "11:00 a.m. – 1:00 p.m.",
+          "title": "Breakout session: Reimagining Media Narratives for Diverse Audiences",
+          "description": "Interactive session on inclusive storytelling",
+          "details": "This session shall unlock the power of inclusive storytelling in this dynamic breakout session. The conversations in the breakouts shall delve into strategies for creating media narratives that resonate with diverse audiences and reflect a broad spectrum of perspectives."
+        },
+        {
+          "id": "6",
+          "time": "1:00 – 2:00 p.m.",
+          "title": "Lunch Break",
+          "description": "Networking lunch for all participants",
+          "details": "Participants shall take a break to mingle with industry leaders and media professionals. This session will be a great opportunity to make valuable connections and discuss insights from the morning sessions."
+        },
+        {
+          "id": "7",
+          "time": "2:00 – 3:45 p.m.",
+          "title": "World Café Format: The Intersection of Technology and Narrative",
+          "description": "Interactive session exploring technology's impact on storytelling",
+          "details": "The World Café session shall explore how technology transforms storytelling in the media and creative industries. This interactive format shall encourage collaborative dialogue among participants, fostering an environment where diverse perspectives can merge to uncover innovative approaches."
+        },
+        {
+          "id": "8",
+          "time": "3:45 – 5:00 p.m.",
+          "title": "Media Mash-up Trivia Game",
+          "description": "Fun and interactive trivia game on media and storytelling",
+          "details": "Grouped in small teams, participants will be tested on their knowledge of media and storytelling through a fun and interactive trivia game. This game is designed to be light-hearted and engaging, providing a refreshing break from the day's discussions."
+        },
+        {
+          "id": "9",
+          "time": "5:00 – 6:00 p.m.",
+          "title": "Evening Coffee & Networking",
+          "description": "Casual networking and reflection session",
+          "details": "This day shall close with evening coffee where participants enjoy refreshments, engage in casual conversations, and reflect on the day's sessions while connecting with other media enthusiasts and professionals."
+        }
+      ]
+    },
+    {
+      "day": "Day 2",
+      "date": "7th November 2024",
+      "title": "Innovating Media & Creative Industries: Challenges and Opportunities",
+      "description": "Examine the latest trends, technologies, and innovations within the media and creative sectors. Address the challenges faced by media startups and established companies, and discover opportunities for growth and collaboration.",
+      "events": [
+        {
+          "id": "10",
+          "time": "9:00 – 10:30 a.m.",
+          "title": "Fireside Chat: The Digital Revolution: Navigating New Frontiers in Media",
+          "description": "Discussion on the impact of digital transformation on media",
+          "details": "Industry leaders shall discuss the impact of digital transformation on media and creative industries. The discussion shall explore how emerging technologies like AI, blockchain, and virtual reality reshape content creation, distribution, and consumption."
+        },
+        {
+          "id": "11",
+          "time": "10:30 – 11:00 a.m.",
+          "title": "Coffee Break",
+          "description": "Networking opportunity for all participants",
+          "details": "Participants shall break and energize themselves with coffee and refreshments while making valuable connections. This networking session shall foster collaboration and discussion among participants from various sectors within the media and creative industries."
+        },
+        {
+          "id": "12",
+          "time": "11:00 – 1:00 p.m.",
+          "title": "Breakout Sessions: Creative Collaboration in the Age of Technology",
+          "description": "Exploring innovative platforms and tools for collaboration",
+          "details": "Collaboration is at the heart of creativity, and technology redefines how creative professionals connect and work together. This session will highlight innovative platforms and tools that facilitate collaboration across geographies and disciplines."
+        },
+        {
+          "id": "13",
+          "time": "1:00 – 2:00 p.m.",
+          "title": "Lunch Break",
+          "description": "Networking lunch for all participants",
+          "details": "Participants shall have a networking lunch break to mingle with industry leaders and media professionals. This session will be a great opportunity to make valuable connections and share insights from the morning sessions."
+        },
+        {
+          "id": "14",
+          "time": "2:00 – 3:45 p.m.",
+          "title": "Live Podcast Recording: Monetizing Creativity: New Revenue Streams in Digital Media",
+          "description": "Exploring innovative monetization strategies in digital media",
+          "details": "As traditional revenue models evolve, creative professionals shall explore innovative ways to monetize their work. This session will showcase various monetization strategies in the digital space, including subscription models, crowdfunding, and brand partnerships."
+        },
+        {
+          "id": "15",
+          "time": "3:45 – 5:00 p.m.",
+          "title": "Workshop Session: Future Trends to Watch in the Creative Landscape",
+          "description": "Panel discussion on future trends in media and creative industries",
+          "details": "We shall wrap up the day with a forward-looking panel of industry visionaries who will share their predictions for the future of media and creative industries. What trends should professionals be aware of in the coming years? Discussions shall highlight advancements in technology and shifts in consumer behavior."
+        },
+        {
+          "id": "16",
+          "time": "5:00 – 6:00 p.m.",
+          "title": "Evening Coffee & Networking",
+          "description": "Casual networking and reflection session",
+          "details": "This day shall close with evening coffee where participants enjoy refreshments, engage in casual conversations, and reflect on the day's sessions while connecting with other media enthusiasts and professionals."
+        }
+      ]
+    },
+    {
+      "day": "Day 3",
+      "date": "8th November 2024",
+      "title": "Media Literacy and Responsibility: Navigating the Digital Age",
+      "description": "Explore the importance of media literacy in combating misinformation and disinformation. Learn about strategies for responsible media consumption and the role of education and advocacy in promoting media integrity.",
+      "events": [
+        {
+          "id": "17",
+          "time": "9:00 – 10:30 a.m.",
+          "title": "Plenary Session: Misinformation and Its Impact on Society",
+          "description": "Panel discussion on media literacy and combating misinformation",
+          "details": "In an era saturated with information, understanding how to critically engage with media is crucial. Panelists shall discuss the evolving landscape of media literacy and its significance in combating misinformation."
+        },
+        {
+          "id": "18",
+          "time": "10:30 – 11:00 a.m.",
+          "title": "Coffee Break",
+          "description": "Networking opportunity for all participants",
+          "details": "Participants shall break and energize themselves with coffee and refreshments while making valuable connections fostering collaboration and discussion among participants from various sectors within the media and creative industries."
+        },
+        {
+          "id": "19",
+          "time": "11:00 – 1:00 p.m.",
+          "title": "Fireside Chat: Tools for Fact-Checking and Verification",
+          "description": "Hands-on discussion on fact-checking and information verification",
+          "details": "This session shall equip participants with practical skills in this hands-on discussion focused on fact-checking and information verification. Participants will explore a range of digital tools and techniques for assessing the credibility of sources and claims."
+        },
+        {
+          "id": "20",
+          "time": "1:00 – 2:00 p.m.",
+          "title": "Lunch Break",
+          "description": "Networking lunch for all participants",
+          "details": "Participants shall have a networking lunch where they will have an opportunity to make valuable connections and share insights with industry leaders and media professionals."
+        },
+        {
+          "id": "21",
+          "time": "2:00 – 3:30 p.m.",
+          "title": "World Café Format: Building a Culture of Media Responsibility",
+          "description": "Interactive session on media responsibility and ethics",
+          "details": "This session shall delve into the concept of media responsibility and what it means in our interconnected world. Participants shall explore the ethical implications of creating and sharing content online."
+        },
+        {
+          "id": "22",
+          "time": "3:30 – 5:00 p.m.",
+          "title": "Breakout Session: Youth and Media Literacy – Empowering the Next Generation",
+          "description": "Focus on enhancing media literacy among youth",
+          "details": "This session aims to empower young people to become discerning media consumers in an age of abundance. This session shall focus on innovative educational strategies and programs designed to enhance media literacy among youth."
+        },
+        {
+          "id": "23",
+          "time": "5:00 – 6:00 p.m.",
+          "title": "Evening Coffee & Networking",
+          "description": "Casual networking and reflection session",
+          "details": "This day shall close with evening coffee where participants enjoy refreshments, engage in casual conversations, and reflect on the day's sessions while connecting with other media enthusiasts and professionals."
+        }
+      ]
+    }
+  ]
+}
